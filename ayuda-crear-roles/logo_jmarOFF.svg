@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 500.0 500.0"
+	enable-background="new 0 0 500.0 500.0"
+	xml:space="preserve">
+<defs>
+	<style type="text/css">
+		@font-face {
+			font-family: 'aclonica'; 
+			src: url('./aclonica.ttf');
+		}
+	</style>
+<filter id="glow24" x="-200%" y="-200%" width="600%" height="600%" >
+	<feOffset result="offOut" in="SourceGraphic" dx="3.186888" dy="4.780332" />
+	<feGaussianBlur result="blurOut" in="offOut" stdDeviation="0.796722" />
+	<feFlood flood-color="#000000" flood-opacity="1.000" result="flood"/>
+	<feComposite in="flood" in2="blurOut" operator="in" result="blendOut0"/>
+	<feBlend in="blendOut0" in2="blendOut0" result="blendOut1" mode="normal" />
+	<feBlend in="blendOut1" in2="blendOut0" result="blendOut2" mode="normal" />
+	<feBlend in="blendOut2" in2="blendOut0" result="blendOut3" mode="normal" />
+	<feBlend in="SourceGraphic" in2="blendOut3" mode="normal" />
+</filter>
+
+</defs>
+	<path
+		fill="#B29D00"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="5.5446744"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M458.33,375.00C270.83,437.50,175.29,411.09,150.92,352.44"/>
+	<path
+		fill="#670000"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="5.0"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M62.50,354.17Q262.37,472.17,166.67,145.83Q208.33,437.50,46.37,332.33L62.50,354.17z"/>
+	<path
+		fill="#064300"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="5.5439243"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M36.46,203.39Q109.37,131.27,171.88,152.10Q67.71,89.60,36.46,203.39z"/>
+	<path
+		fill="#064300"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="5.5439243"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M170.55,153.92Q226.25,124.40,309.59,228.57Q247.09,61.90,170.55,153.92z"/>
+	<path
+		fill="#064300"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="5.5439243"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M160.91,148.33Q159.89,85.30,290.54,58.34Q113.66,38.36,160.91,148.33z"/>
+	<path
+		fill="#064300"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="5.5439243"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M174.33,152.37Q208.74,99.54,332.13,150.25Q196.66,34.78,174.33,152.37z"/>
+	<path
+		fill="#064300"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="5.5439243"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M27.17,126.98Q124.88,95.82,166.67,145.83Q106.67,39.78,27.17,126.98z"/>
+	<path
+		fill="#064300"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="5.5439243"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M125.00,250.00Q62.50,166.67,155.47,140.82Q-20.06,170.37,125.00,250.00z"/>
+
+	<text 
+		font-size="93.75009"
+		font-family="aclonica"
+		stroke-width="8.301856"
+		stroke="#000000"
+		stroke-opacity="1.000"
+		fill-opacity="0"
+		text-anchor="start"
+		filter="url(#glow24)"
+  		transform="rotate(-0.0 322.9167 348.95844) scale(0.7099148 1.0)" >
+		<tspan x="264.11633" y="376.79092">otamar</tspan>
+	</text> 
+
+	<text 
+		font-size="93.75009"
+		font-family="aclonica"
+		fill="#11B300"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+		filter="url(#glow24)"
+  		transform="rotate(-0.0 322.9167 348.95844) scale(0.7099148 1.0)" >
+
+		<tspan x="264.11633" y="376.79092">otamar</tspan>
+	</text>
+	<path
+		fill="#D7D700"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="5.5446744"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M391.91,87.70C412.99,85.49,431.83,100.39,434.00,120.99C436.16,141.59,420.83,160.08,399.75,162.30C378.68,164.51,359.83,149.61,357.67,129.01C355.50,108.41,370.84,89.92,391.91,87.70z"/>
+
+	<text 
+		font-size="32.28447"
+		font-family="default"
+		stroke-width="5.544675"
+		stroke="#000000"
+		stroke-opacity="1.000"
+		fill-opacity="0"
+		text-anchor="start"
+  		transform="rotate(-0.0 333.33334 250.00006) scale(0.78700155 1.0)" >
+		<tspan x="253.1195" y="259.08057">programamos tus ideas</tspan>
+	</text> 
+
+	<text 
+		font-size="32.28447"
+		font-family="default"
+		fill="#5961FF"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 333.33334 250.00006) scale(0.78700155 1.0)" >
+
+		<tspan x="253.1195" y="259.08057">programamos tus ideas</tspan>
+	</text>
+</svg>
